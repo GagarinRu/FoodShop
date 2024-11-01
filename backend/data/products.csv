@@ -1,0 +1,11 @@
+name,slug,image,price,image_medium_size,image_big_size,subcategory_id
+абрикосовое варенье,apricot_jam,shopfood/images/apricot_jamS.png,1200,shopfood/images/apricot_jamM.png,shopfood/images/apricot_jamL.png,1
+абрикосы,apricots,shopfood/images/apricotsS.png,1200,shopfood/images/apricotsM.png,shopfood/images/apricotsL.png,1
+авокадо,avocado,shopfood/images/avocadoS.png,1200,shopfood/images/avocadoM.png,shopfood/images/avocadoL.png,1
+аджика,adjika,shopfood/images/adjikaS.png,1200,shopfood/images/adjikaM.png,shopfood/images/adjikaL.png,2
+айва,quince,shopfood/images/quinceS.png,1200,shopfood/images/quinceM.png,shopfood/images/quinceL.png,2
+айран,ayran,shopfood/images/ayranS.png,1200,shopfood/images/ayranM.png,shopfood/images/ayranL.png,2
+айсинг,icing,shopfood/images/icingS.png,1200,shopfood/images/icingM.png,shopfood/images/icingL.png,3
+алыча,cherry_plum,shopfood/images/cherry_plum.png,1200,shopfood/images/cherry_plumM.png,shopfood/images/cherry_plumL.png,3
+альмехи,almehi,shopfood/images/almehiS.png,1200,shopfood/images/almehiM.png,shopfood/images/almehiL.png,3
+ананасы,pineapples,shopfood/images/pineapplesS.png,1200,shopfood/images/pineapplesM.png,shopfood/images/pineapplesL.png,1

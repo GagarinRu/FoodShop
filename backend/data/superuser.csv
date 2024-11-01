@@ -1,0 +1,2 @@
+password,is_superuser,username,email,is_staff,is_active
+admin,1,admin,admin@admin.py,1,1

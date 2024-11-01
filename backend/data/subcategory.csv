@@ -1,0 +1,4 @@
+name,slug,image,category_id
+Кофе,сoffee,shopfood/images/coffee.png,1
+Борщ,borsch,shopfood/images/borsch.png,2
+Торт,cake,shopfood/images/cake.png,3
